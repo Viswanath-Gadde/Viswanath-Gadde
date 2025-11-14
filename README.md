@@ -15,6 +15,14 @@
 ## 📫 Reach Me
 - Email: *gaddeviswanath628@gmail.com*
 
+## 📈 GitHub Stats
+![Viswanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viswanath-Gadde&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viswanath-Gadde&layout=compact&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=Viswanath-Gadde&style=flat-square)
+
+
 ---
 
 ⭐ *Always learning. Always building.*  
