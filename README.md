@@ -10,7 +10,6 @@
 - Machine Learning
 - Deep Learning 
 - NLP  
-- Flask (API Development)   
 
 ## 📫 Reach Me
 - Email: *gaddeviswanath628@gmail.com*
